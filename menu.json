@@ -1,0 +1,12 @@
+{
+    "menu_id" : "examplebinds_menu",
+    "parent_menu_id" : "lua_mod_options_menu",
+    "title" : "examplebinds_menu_title",
+    "description" : "examplebinds_menu_desc",
+	"items" : [
+		{
+			"type" : "divider",
+			"size" : 128,
+		}
+	]
+}
